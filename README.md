@@ -1,4 +1,4 @@
-# IRCTC Ticket Booking - Java Project
+# IRCTC Ticket Booking - Basic Java Project
 
 This is a Java-based project designed to simulate an IRCTC (Indian Railway Catering and Tourism Corporation) ticket booking system. The project allows users to search for available trains, select trains, and book tickets. It is built with Java and follows an object-oriented programming approach to handle user input and manage ticket booking logic.
 
